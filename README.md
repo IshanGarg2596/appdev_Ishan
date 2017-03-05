@@ -1,2 +1,2 @@
-# bsp
-This is the directory for my work of making apps and web pages.
+# appdev_Ishan
+development projects done by me -Ishan.
