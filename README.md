@@ -1,2 +1,2 @@
-# appdev_Ishan
-Some App development projects. 
+# Web-design
+some web-design projects. 
